@@ -1,0 +1,5 @@
+grant {
+  permission java.io.FilePermission "test.txt", "read";
+  permission java.io.FilePermission "/tmp/-", "read, write";
+  permission java.util.PropertyPermission "file.encoding", "read";
+};
