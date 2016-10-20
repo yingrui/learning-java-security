@@ -1,0 +1,12 @@
+**/.DS_Store
+**/.idea
+**/.vagrant
+**/target
+**/*.swp
+**/*.log
+**/logs
+**/.cache-main
+**/.cache-tests
+**/.classpath
+**/.project
+**/.settings/
